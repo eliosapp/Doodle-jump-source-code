@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>STRING_ID_COLLECT_X_GOLD</key>
+	<array>
+		<string>collecter %d pièce{s} d&apos;or</string>
+		<string>collected %d gold</string>
+	</array>
+	<key>STRING_ID_COLLECT_X_COINS</key>
+	<array>
+		<string>collecter %d pièce{s} de monnaie</string>
+		<string>collected %d coins</string>
+	</array>
+	<key>STRING_ID_COLLECT_X_EGGS</key>
+	<array>
+		<string>collecter %d oeufs</string>
+		<string>collected %d eggs</string>
+	</array>
+	<key>STRING_ID_COLLECT_X_CANDIES</key>
+	<array>
+		<string>collecter %d bonbons</string>
+		<string>collected %d candies</string>
+	</array>
+	<key>STRING_ID_BLAST_X_MONSTERS</key>
+	<array>
+		<string>fusiller %d monstre{s}</string>
+		<string>blasted %d monster{s}</string>
+	</array>
+	<key>STRING_ID_BEAT_COLOMBIA</key>
+	<array>
+		<string>vaincre colombia</string>
+		<string>beat colombia</string>
+	</array>
+	<key>STRING_ID_BEAT_HUNGARY</key>
+	<array>
+		<string>vaincre hungary</string>
+		<string>beat hungary</string>
+	</array>
+	<key>STRING_ID_BEAT_JAPAN</key>
+	<array>
+		<string>vaincre japon</string>
+		<string>beat japan</string>
+	</array>
+	<key>STRING_ID_GET_ABDUCTED_X_TIMES</key>
+	<array>
+		<string>se capturé par ufo</string>
+		<string>abducted %dx</string>
+	</array>
+	<key>STRING_ID_STOMP_X_MONSTERS</key>
+	<array>
+		<string>bondir sur %d monstre{s}</string>
+		<string>stomped %d monster{s}</string>
+	</array>
+	<key>STRING_ID_DODGE_X_CANNONBALLS</key>
+	<array>
+		<string>éviter %d boulet{s}</string>
+		<string>dodged %d cannonball{s}</string>
+	</array>
+	<key>STRING_ID_BLAST_X_MONSTERS_IN_GAME</key>
+	<array>
+		<string>fusiller %d monstre{s} dans un jeu</string>
+		<string>blasted %d monster{s} in a game</string>
+	</array>
+	<key>STRING_ID_STOMP_X_MONSTERS_IN_GAME</key>
+	<array>
+		<string>bondir sur %d monstre{s} dans un jeu</string>
+		<string>stomped %d monster{s} in a game</string>
+	</array>
+	<key>STRING_ID_AVOID_X_MONSTERS_IN_GAME</key>
+	<array>
+		<string>eviter %d monstre{s} dans un jeu</string>
+		<string>avoided %d monster{s} in a game</string>
+	</array>
+	<key>STRING_ID_JUMP_ON_X_SPRINGS</key>
+	<array>
+		<string>sauter sur %d ressort{s}</string>
+		<string>jumped on %d spring{s}</string>
+	</array>
+	<key>STRING_ID_DEFEAT_FRANKENSTEIN_WOLFMAN</key>
+	<array>
+		<string>défaite frankenstein + wolfman %dx</string>
+		<string>beat frankenstein + wolfman %dx</string>
+	</array>
+	<key>STRING_ID_PLAY_ALL_THEMES</key>
+	<array>
+		<string>jouer tous les thèmes</string>
+		<string>played every theme</string>
+	</array>
+	<key>STRING_ID_USE_SPRINGSHOES_X_TIMES</key>
+	<array>
+		<string space="0.9">utiliser des chaussures de ressorts %dx{s}</string>
+		<string>used spring shoes %dx</string>
+	</array>
+	<key>STRING_ID_DESTROY_X_ICEBLOCKS</key>
+	<array>
+		<string>détruire %d bloc{s} de glace</string>
+		<string>crushed %d ice block{s}</string>
+	</array>
+	<key>STRING_ID_OPEN_X_TREASURECHESTS</key>
+	<array>
+		<string>ouvert %d coffre{s} au trésor</string>
+		<string>opened %d chest{s}</string>
+	</array>
+	<key>STRING_ID_SHARE_X_TIMES</key>
+	<array>
+		<string>partager votre score %dx</string>
+		<string>shared your score %dx</string>
+	</array>
+	<key>STRING_ID_BOUNCE_ON_X_TRAMPOLINES</key>
+	<array>
+		<string>rebondir sur %d trampoline{s}</string>
+		<string>bounced on %d trampoline{s}</string>
+	</array>
+	<key>STRING_ID_RIDE_X_SPACESHIPS</key>
+	<array>
+		<string>monter %d vaisseaux spatiaux</string>
+		<string>rode %d spaceship{s}</string>
+	</array>
+	<key>STRING_ID_HIDE_IN_BUSHES_X_TIMES</key>
+	<array>
+		<string>cacher dans les buissons %dx</string>
+		<string>hid in bushes %dx</string>
+	</array>
+	<key>STRING_ID_RESURRECT_X_TIMES</key>
+	<array>
+		<string>ressusciter %dx</string>
+		<string>resurrected %dx</string>
+	</array>
+	<key>STRING_ID_WEAR_X_PROPELLERS</key>
+	<array>
+		<string>porter %d hélice chapeaux</string>
+		<string>wore %d propeller hat{s}</string>
+	</array>
+	<key>STRING_ID_SCORE_X_Y_TIMES</key>
+	<array>
+		<string>marquer plus de %d1 %d2x</string>
+		<string>scored over %d1</string>
+	</array>
+	<key>STRING_ID_AVOID_X_ARCTIC_BLASTS</key>
+	<array>
+		<string>éviter %d vent{s} arctique{s}</string>
+		<string>avoided %d arctic blast{s}</string>
+	</array>
+	<key>STRING_ID_STOMP_ON_X_PUFFERFISH</key>
+	<array>
+		<string>bondir sur %d poissons puffer</string>
+		<string>stomped %d puffer fish</string>
+	</array>
+	<key>STRING_ID_RIDE_X_BROOMS</key>
+	<array>
+		<string>monter un balai %dx</string>
+		<string>rode %d brooms</string>
+	</array>
+	<key>STRING_ID_USE_X_HEADSTARTS</key>
+	<array>
+		<string>utiliser %d headstart{s}</string>
+		<string>used %d headstart{s}</string>
+	</array>
+	<key>STRING_ID_GET_CAUGHT_X_BEARTRAPS</key>
+	<array>
+		<string>se coincer dans %d piège{s} à ours</string>
+		<string>got caught in %d trap{s}</string>
+	</array>
+	<key>STRING_ID_BREAK_X_PLATFORMS</key>
+	<array>
+		<string>briser %d plates-forme{s}</string>
+		<string>broke %d platform{s}</string>
+	</array>
+	<key>STRING_ID_SURVIVE_X_RAINSTORMS</key>
+	<array>
+		<string>survivre à %d orage{s}</string>
+		<string>survived %d rainstorm{s}</string>
+	</array>
+	<key>STRING_ID_FREEZE_X_TIMES</key>
+	<array>
+		<string>devenir congelés %dx</string>
+		<string>froze %dx</string>
+	</array>
+	<key>STRING_ID_SURVIVE_X_BLIZZARDS</key>
+	<array>
+		<string>survivre à %d tempête{s} de neige</string>
+		<string>survived %d blizzard{s}</string>
+	</array>
+	<key>STRING_ID_UNLOCK_X_COSTUMES</key>
+	<array>
+		<string>acheter %d costume{s}</string>
+		<string>unlocked %d costume{s}</string>
+	</array>
+	<key>STRING_ID_FLY_INTO_X_MONSTERS_PROPELLER</key>
+	<array>
+		<string space="0.9">frapper %d monstre{s} avec un hélice chapeau</string>
+		<string>flew into %d monster{s}</string>
+	</array>
+	<key>STRING_ID_BOUNCE_X_TIMES_UFO</key>
+	<array>
+		<string>rebondir sur %d ufo{s}</string>
+		<string>bounced on %d UFO{s}</string>
+	</array>
+	<key>STRING_ID_FLY_X_JETPACKS_IN_GAME</key>
+	<array>
+		<string>voler %d jetpack{s} dans un jeu</string>
+		<string>flew %d jetpack{s}</string>
+	</array>
+        <key>STRING_ID_BOUNCE_X_MOVING_PLATFORMS</key>
+	<array>
+		<string>rebond sur %d plates-formes mobiles</string>
+		<string>bounced on %d moving platform{s}</string>
+	</array>
+	<key>STRING_ID_BLAST_X_MONSTERS_PRECISE</key>
+	<array>
+		<string>fusiller %d monstre{s} sans manquer</string>
+		<string>blasted %d monster{s} precisely</string>
+	</array>
+	<key>STRING_ID_MISS_X_HITS</key>
+	<array>
+		<string>tirer et échouer des monstres %dx</string>
+		<string>blasted %d times{s} without hitting monster</string>
+	</array>
+	<key>STRING_ID_STOMP_X_REFEREES</key>
+	<array>
+		<string>bondir sur l'arbitre %dx</string>
+		<string>stomped on %d referee{s}</string>
+	</array>
+		<key>STRING_ID_RIDE_X_ROCKETSLEDS</key>
+	<array>
+		<string>monter le traîneau de fusée %dx</string>
+	</array>
+	<key>STRING_ID_USE_GIFTBOX_X_TIMES</key>
+	<array>
+		<string>prendre %d cadeaux</string>
+	</array>
+	<key>STRING_ID_BLAST_X_SNOWMANS</key>
+	<array>
+		<string>fusiller le bonhomme de neige %dx</string>
+	</array>
+	<key>STRING_ID_STOMP_X_REINDEERS</key>
+	<array>
+		<string>sauter sur un renne %dx</string>
+	</array>
+	<key>STRING_ID_CHOP_TREE_IN_A_GAME</key>
+	<array>
+		<string>couper %d arbres en un jeu</string>
+	</array>
+	<key>STRING_ID_SHARE_SNOW_X_TIMES</key>
+	<array>
+		<string>partager votre score %dx</string>
+	</array>
+	<key>STRING_ID_STOMP_X_YETI</key>
+	<array>
+		<string>battre un yeti %dx</string>
+	</array>
+	<key>STRING_ID_BLAST_X_SNOWFLAKES</key>
+	<array>
+		<string>tirer un flocon de neige %dx</string>
+	</array>
+	<key>STRING_ID_DESTROY_X_SPACEBARRELS</key>
+	<array>
+		<string>détruisez %d barriques d'espace</string>
+	</array>	
+	<key>STRING_ID_RIDE_X_8BITROCKETS</key>
+	<array>
+		<string>voler %d fusées différentes</string>
+	</array>	
+	<key>STRING_ID_BLAST_X_SIBLOCKS</key>
+	<array>
+		<string space="0.9">effacer le bloc complet d’envahisseurs %dx</string>
+	</array>	
+	<key>STRING_ID_TAG_X_GHOSTS</key>
+	<array>
+		<string>touchez %d fantômes blancs</string>
+	</array>	
+		<key>STRING_ID_ELIMINATE_CHOMP_MONSTERS</key>
+	<array>
+		<string>éliminez %d monstres chomping</string>
+	</array>
+	<key>STRING_ID_WEAR_SPRINGSUIT_X_TIMES</key>
+	<array>
+		<string>portez un pod de saut %dx</string>
+	</array>
+	<key>STRING_ID_BLAST_X_SPIDERS</key>
+	<array>
+		<string>détruisez %d araignées</string>
+	</array>
+	<key>STRING_ID_AVOID_X_DIVEBOMBERS</key>
+	<array>
+		<string>évitez %d bombardiers de plongée</string>
+	</array>
+	<key>STRING_ID_KILL_X_SPACEAPES</key>
+	<array>
+		<string>bannissez le singe de l'espace %dx</string>
+	</array>
+	<key>STRING_ID_RIDE_X_8BITROCKETS_INGAME</key>
+	<array>
+		<string>voler %d fusées différentes un jeu</string>
+	</array>
+</dict>
+</plist>

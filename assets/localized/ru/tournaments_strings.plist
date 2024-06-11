@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WELCOME_TO</key>
+	<string>добро пожаловать на турниры!</string>
+	<key>ACTIVE</key>
+	<string>активные</string>
+	<key>COMPLETED</key>
+	<string>завершенные</string>
+	<key>REGISTER</key>
+	<string scale="0.85" space="0.05">регистрация</string>
+	<key>CONFIRM_NAME</key>
+	<string>подтвердите имя пользователя:</string>
+	<key>REGISTERING_PLAYER</key>
+	<string>регистрация игрока...</string>
+	<key>AUTHING_PLAYER</key>
+	<string>аутентификация игрока...</string>
+	<key>ERROR_CONNECTION</key>
+	<string>ошибка при подключении к серверам турниров</string>
+	<key>TRY_AGAIN</key>
+	<string>попробовать снова</string>
+	<key>RESET_SUGGEST</key>
+	<string>если проблема постоянна, вы можете попытаться сбросить свою учетную запись игрока\n \nВНИМАНИЕ:\nвсе невостребованные призы и статистика будут потеряны!</string>
+	<key>RESET_ACCOUNT</key>
+	<string>сбросить аккаунт</string>
+	<key>SENDING_UNSENT</key>
+	<string>отправка баллов...</string>
+	<key>LOADING_TOURNAMENTS</key>
+	<string>загрузка турниров...</string>
+	<key>TOURNAMENTS</key>
+	<string>турниры</string>
+	<key>TOURNAMENTS_SUBSTR</key>
+	<string>соревнуйтесь с другими игроками\n за большие призы!</string>
+	<key>NO_TOURNAMENTS</key>
+	<string>извините, турниров нет</string>
+	<key>FINISHED</key>
+	<string>завершено</string>
+	<key>FINISHED_COMPETS</key>
+	<string>завершенные соревнования</string>
+	<key>ENTERING_TOURNAMENT</key>
+	<string>вход в турнир...</string>
+	<key>RE_ENTERING_TOURNAMENT</key>
+	<string>повторный вход в турнир...</string>
+	<key>LOADING_RANKS</key>
+	<string>загрузка рангов...</string>
+	<key>CLAIM</key>
+	<string>получить</string>
+	<key>SHOW</key>
+	<string>показать</string>
+	<key>ENTER</key>
+	<string>войти</string>
+	<key>REMAINING</key>
+	<string>осталось</string>
+	<key>RANKS</key>
+	<string>ранги</string>
+	<key>PLAY</key>
+	<string>играть</string>
+	<key>ENDED_TITLE</key>
+	<string>%s\nзавершен</string>
+	<key>NO_WON_SUBSTR</key>
+	<string>плохо, что вы ничего не выиграли. повезет в следующий раз</string>
+	<key>LOADING_AWARDS</key>
+	<string>загрузка информации о наградах...</string>
+	<key>CONGRATS</key>
+	<string>поздравляем!</string>
+	<key>WON_SUBSTR</key>
+	<string>вы завершили\nс рангом #%d\nтурнир %s</string>
+	<key>RANK_SINGLE</key>
+	<string>ранг %d</string>
+	<key>RANK_COMPLEX</key>
+	<string>ранги %d-%d</string>
+	<key>1ST_PRIZE</key>
+	<string>1й приз</string>
+	<key>2ND_PRIZE</key>
+	<string>2й приз</string>
+	<key>3RD_PRIZE</key>
+	<string>3й приз</string>
+	<key>REPLAY</key>
+	<string space="0.01">переиграть</string>
+	<key>MENU</key>
+	<string>меню</string>
+	<key>TIMER_FORMAT</key>
+	<string>%dдн / %02d:%02d:%02d</string>
+	<key>CHANGE_NAME</key>
+	<string>сменить имя</string>
+	<key>NO_RANKS_AVAILABLE</key>
+	<string>нет данных по рангам</string>
+	<key>CHANGE</key>
+	<string>изменить</string>
+	<key>CANCEL</key>
+	<string>отмена</string>
+	<key>CHANGING_NAME</key>
+	<string>изменение имени пользователя...</string>
+	<key>CLAIMED</key>
+	<string>выдано</string>
+	<key>CLAIMED_DESC</key>
+	<string>ваша награда была добавлена в ваш инвентарь</string> 
+</dict>
+</plist>

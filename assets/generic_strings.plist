@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>YES_BTN</key>
+	<string>yes</string>
+	<key>NO_BTN</key>
+	<string>no</string>
+	<key>CLOSE_BTN</key>
+	<string>close</string>
+	<key>GREAT_BTN</key>
+	<string>cool</string>
+	<key>WON_POPUP</key>
+	<string>you won:</string>
+	<key>SPIN</key>
+	<string>spin</string>
+	<key>STOP</key>
+	<string>stop</string>
+	<key>GAMEOVER_SCORE</key>
+	<string>your score:</string>
+	<key>GAMEOVER_HIGHSCORE</key>
+	<string>your high score:</string>
+	<key>GAMEOVER_LT_HIGHSCORE</key>
+	<string>overall high score:</string>
+	<key>GAMEOVER_NAME</key>
+	<string>your name:</string>
+	<key>TAPTOCHANGE</key>
+	<string>tap to change</string>
+	<key>PLAYAGAIN</key>
+	<string>play again</string>
+	<key>REMOVEADS</key>
+	<string>remove ads</string>
+	<key>SHARE</key>
+	<string>share score</string>
+	<key>MENU</key>
+	<string>menu</string>
+	<key>MISSIONS</key>
+	<string scale="0.9" space="0.9">missions</string>
+	<key>RESUME</key>
+	<string>resume</string>
+	<key>PAUSED</key>
+	<string>paused</string>
+	<key>PLAY</key>
+	<string>play</string>
+	<key>TOYS_BTN</key>
+	<string>toys</string>
+	<key>PLAYAGAIN_BTN</key>
+	<string>play again</string>
+	<key>MENU_BTN</key>
+	<string>¶menu</string>
+	<key>REMOVEADS_BTN</key>
+	<string scale="1.05">¶remove¶¶¶¶\n¶¶¶¶¶¶ads</string>
+	<key>SHARE_BTN</key>
+	<string scale="1.1">share</string>
+	<key>STORE</key>
+	<string>store</string>
+	<key>WATCHVIDEO</key>
+	<string> watch ad\nfor resurrect</string>	
+	<key>SKIP</key>
+	<string>skip</string>
+	<key>CALIBRATE_INFO</key>
+	<string>place your device straight up\nand press the SET button</string>
+	<key>CALIBRATION</key>
+	<string>calibration</string>
+	<key>SET</key>
+	<string>set</string>
+	<key>DONE</key>
+	<string>done</string>
+	<key>SPACE</key>
+	<string>space</string>	
+	<key>OPTIONS</key>
+	<string>options</string>
+	<key>DIRECTIONAL</key>
+	<string>directional shooting</string>
+	<key>SOUNDS</key>
+	<string>sounds</string>
+	<key>ON</key>
+	<string>ON</string>	
+	<key>OFF</key>
+	<string>OFF</string>
+	<key>AUTO</key>
+	<string>AUTO</string>	
+	<key>MANUAL</key>
+	<string>MANUAL</string>
+	<key>LOGIN</key>
+	<string>login</string>	
+	<key>LOGOUT</key>
+	<string>logout</string>
+	<key>PRIVACY</key>
+	<string>privacy policy</string>
+	<key>CALIBRATE</key>
+	<string>calibrate</string>
+	<key>SIGNIN_GOOGLE</key>
+	<string>sign in with google</string>
+	<key>CONNECTED_GOOGLE</key>
+	<string>you are connected\nwith google¶¶¶¶¶¶¶</string>
+	<key>BUY_BTN</key>
+	<string>buy</string>
+	<key>LOADING</key>
+	<string>loading...</string>
+	<key>COPYRIGHT</key>
+	<string>©2024 Lima Sky LLC</string>
+	<key>STORE_BTN</key>
+	<string scale="0.8" space="0.9">store¶</string>
+	<key>OPTIONS_BTN</key>
+	<string scale="0.8" space="0.9">¶¶options</string>
+	<key>SCORES_BTN</key>
+	<string scale="0.8" space="0.9">scores</string>
+	<key>SWIPE_ALERT</key>
+	<string scale="0.78" space="0.86">¶¶¶¶¶¶swipe to\nselect theme</string>
+	<key>TOURNAMENTS</key>
+	<string scale="0.85" space="0.82">tournaments</string>
+</dict>
+</plist>

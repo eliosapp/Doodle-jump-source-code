@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONTACTING_STORE</key>
+	<string>contacting store...</string>
+	<key>FREE_VIDEO</key>
+	<string>¶\nfree¶¶</string>
+	<key>FREE</key>
+	<string>watch ad!</string>
+	<key>NEED_MORE_COINS</key>
+	<string>you need more coins</string>
+	<key>GET_MORE_COINS</key>
+	<string>get more coins</string>
+	<key>NEED_MORE_GOLD</key>
+	<string>you need more gold</string>
+	<key>GET_MORE_GOLD</key>
+	<string>get more gold</string>
+	<key>NEED_MORE_CANDIES</key>
+	<string>you need more candy</string>
+	<key>GET_MORE_CANDIES</key>
+	<string>get more candy</string>
+	<key>NEED_MORE_EGGS</key>
+	<string>you need¶¶¶¶¶\n¶¶more eggs</string>
+	<key>GET_MORE_EGGS</key>
+	<string>get more eggs</string>
+	<key>BEST_DEAL</key>
+	<string>best deal!</string>
+	<key>MOST_POPULAR</key>
+	<string>most¶¶¶¶¶¶¶\npopular</string>
+	<key>CURRENCY_COINS</key>
+	<string>coins</string>	
+	<key>CURRENCY_GOLD</key>
+	<string>gold</string>	
+	<key>CURRENCY_CANDIES</key>
+	<string>candies</string>
+	<key>CURRENCY_EGGS</key>
+	<string>eggs</string>		
+	<key>CONGRATS</key>
+	<string>congratulations!</string>		
+	<key>YOU_EARNED</key>
+	<string>you earned</string>
+	<key>OK_BUTTON</key>
+	<string>ok</string>
+</dict>
+</plist>

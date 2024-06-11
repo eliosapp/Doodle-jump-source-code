@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIGHSCORES_TITLE</key>
+	<string>scores, stats\n¶¶¶¶¶¶¶¶&amp; achievements</string>
+	<key>NET_GLOBAL</key>
+	<string>global</string>
+	<key>NET_LOCAL</key>
+	<string>local</string>
+	<key>SCORES</key>
+	<string>scores</string>
+	<key>STATS</key>
+	<string>stats</string>
+	<key>ACHS</key>
+	<string>achievements</string>
+	<key>ALL</key>
+	<string>all time</string>
+	<key>TODAY</key>
+	<string>today</string>
+	<key>WEEK</key>
+	<string>this week</string>
+	<key>TOTAL_GAMES</key>
+	<string>total games played</string>
+	<key>HIGH_SCORE</key>
+	<string>high score</string>
+	<key>LAST_SCORE</key>
+	<string>last score</string>
+	<key>AVG_SCORE</key>
+	<string>average score</string>
+	<key>TOTAL_TIME</key>
+	<string>total play time</string>
+	<key>LONG_TIME</key>
+	<string>longest play time</string>
+	<key>LAST_TIME</key>
+	<string>last play time</string>
+	<key>MONS_SHOT</key>
+	<string>monsters shot</string>
+	<key>MONS_JUMP</key>
+	<string>monsters jumped on</string>
+	<key>UFO_SHOT</key>
+	<string>UFOs shot</string>
+	<key>UFO_JUMP</key>
+	<string>UFOs jumped on</string>
+	<key>TOTAL_JUMP</key>
+	<string>total jumps</string>
+	<key>MAX_JUMP</key>
+	<string>max jumps</string>
+	<key>LAST_JUMP</key>
+	<string>last game jumps</string>
+	<key>AVG_JUMP</key>
+	<string>average jumps</string>
+	<key>JETPACK</key>
+	<string>jetpack flights</string>
+	<key>PROPELLERHAT</key>
+	<string>propellerhat flights</string>
+	<key>ROCKET</key>
+	<string>rocket flights</string>
+	<key>HOW_ENDED</key>
+	<string>HOW YOU ENDED</string>
+	<key>MISS_PLATFORMS</key>
+	<string>missed a platform</string>
+	<key>JUMPED_MONSTERS</key>
+	<string>jumped into a monster</string>
+	<key>ABDUCTED_UFO</key>
+	<string>abducted by UFO</string>
+	<key>BLACK_HOLE</key>
+	<string>black hole</string>
+</dict>
+</plist>

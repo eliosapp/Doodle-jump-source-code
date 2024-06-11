@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIGHSCORES_TITLE</key>
+	<string>¶¶¶¶¶¶ergebnisse, statistiken\n¶¶¶¶¶¶¶¶und erfolge</string>	
+	<key>NET_GLOBAL</key>
+	<string>weltweit</string>
+	<key>NET_LOCAL</key>
+	<string>lokal</string>
+	<key>SCORES</key>
+	<string>punkte</string>
+	<key>STATS</key>
+	<string>angaben</string>
+	<key>ACHS</key>
+	<string>ergebnisse</string>
+	<key>ALL</key>
+	<string>fuer\nimmer</string>
+	<key>TODAY</key>
+	<string>heute</string>
+	<key>WEEK</key>
+	<string>diese\nwoche</string>
+	<key>TOTAL_GAMES</key>
+	<string space="0.92">anzahl gespielter spiele</string>
+	<key>HIGH_SCORE</key>
+	<string>highscore</string>
+	<key>LAST_SCORE</key>
+	<string>letzte punktzahl</string>
+	<key>AVG_SCORE</key>
+	<string scale="0.94" space="0.91">durchschnittliche punktzahl</string>
+	<key>TOTAL_TIME</key>
+	<string>gesamtspielzeit</string>
+	<key>LONG_TIME</key>
+	<string>laengste spielzeit</string>
+	<key>LAST_TIME</key>
+	<string>letzte spielzeit</string>
+	<key>MONS_SHOT</key>
+	<string>monster geschossen</string>
+	<key>MONS_JUMP</key>
+	<string>auf monster gesprungen</string>
+	<key>UFO_SHOT</key>
+	<string>UFOs geschossen</string>
+	<key>UFO_JUMP</key>
+	<string>auf UFOs gesprungen</string>
+	<key>TOTAL_JUMP</key>
+	<string>gesamtanzahl spruenge</string>
+	<key>MAX_JUMP</key>
+	<string>max spruenge</string>
+	<key>LAST_JUMP</key>
+	<string>sprünge letztes spiel</string>
+	<key>AVG_JUMP</key>
+	<string>durschnitt spruenge</string>
+	<key>JETPACK</key>
+	<string>jetpack fluege</string>
+	<key>PROPELLERHAT</key>
+	<string>propellerhut fluege</string>
+	<key>ROCKET</key>
+	<string>raketen flüge</string>
+	<key>HOW_ENDED</key>
+	<string space="0.88">WIE DU DAS BEENDET HAST</string>
+	<key>MISS_PLATFORMS</key>
+	<string>platform verpasst</string>
+	<key>JUMPED_MONSTERS</key>
+	<string>in monster gesprungen</string>
+	<key>ABDUCTED_UFO</key>
+	<string>durch UFO entführt</string>
+	<key>BLACK_HOLE</key>
+	<string>schwarzes loch</string>
+</dict>
+</plist>

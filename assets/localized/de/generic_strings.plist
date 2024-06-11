@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>YES_BTN</key>
+	<string>ja</string>
+	<key>NO_BTN</key>
+	<string>nein</string>
+	<key>CLOSE_BTN</key>
+	<string>close</string>
+	<key>GREAT_BTN</key>
+	<string>schön</string>
+	<key>WON_POPUP</key>
+	<string>prämie:</string>
+	<key>SPIN</key>
+	<string>drehen</string>
+	<key>STOP</key>
+	<string>halt</string>
+	<key>GAMEOVER_SCORE</key>
+	<string>deine score:</string>
+	<key>GAMEOVER_HIGHSCORE</key>
+	<string>deine high score:</string>
+	<key>GAMEOVER_LT_HIGHSCORE</key>
+	<string>gesamt high score:</string>	
+	<key>GAMEOVER_NAME</key>
+	<string>deine name:</string>
+	<key>TAPTOCHANGE</key>
+	<string>tippen\nsie zu ändern</string>
+	<key>PLAYAGAIN</key>
+	<string>noch einmal spielen</string>
+	<key>REMOVEADS</key>
+	<string>werbung entfernen</string>
+	<key>SHARE</key>
+	<string>punkte teilen</string>
+	<key>MENU</key>
+	<string>menü</string>
+	<key>MISSIONS</key>
+	<string scale="0.9" space="0.85">missionen</string>
+	<key>RESUME</key>
+	<string>fortsetzen</string>
+	<key>PAUSED</key>
+	<string>pause</string>
+	<key>PLAY</key>
+	<string>spielen</string>
+	<key>TOYS_BTN</key>
+	<string scale="0.8">spielzeuge</string>
+	<key>PLAYAGAIN_BTN</key>
+	<string scale="0.9">¶¶noch einmal¶¶\n¶¶¶¶spielen</string>
+	<key>MENU_BTN</key>
+	<string>¶menü</string>
+	<key>REMOVEADS_BTN</key>
+	<string>werbung¶¶\n¶¶entfernen</string>
+	<key>SHARE_BTN</key>
+	<string scale="1.1">teilen</string>
+	<key>STORE</key>
+	<string>laden</string>
+	<key>WATCHVIDEO</key>
+	<string>ad anschauen\num weiterzuspielen</string>	
+	<key>SKIP</key>
+	<string>uerberspringen</string>
+	<key>CALIBRATE_INFO</key>
+	<string>halte dein gerät gerade und\ndrücke den EINSTELLEN knopf</string>
+	<key>CALIBRATION</key>
+	<string>kalibrierung</string>
+	<key>SET</key>
+	<string scale="1.0" space="0.9">einstellen</string>
+	<key>DONE</key>
+	<string>fertig</string>
+	<key>SPACE</key>
+	<string>leertaste</string>	
+	<key>OPTIONS</key>
+	<string>optionen</string>
+	<key>DIRECTIONAL</key>
+	<string>richtungsschiessen</string>
+	<key>SOUNDS</key>
+	<string>toene</string>
+	<key>ON</key>
+	<string>AN</string>	
+	<key>OFF</key>
+	<string>AUS</string>
+	<key>AUTO</key>
+	<string>AUTO</string>	
+	<key>MANUAL</key>
+	<string>MANUELL</string>
+	<key>LOGIN</key>
+	<string scale="0.9">einloggen</string>	
+	<key>LOGOUT</key>
+	<string scale="0.9" space="0.9">ausloggen</string>
+	<key>PRIVACY</key>
+	<string>datenschutz bestimmungen</string>
+	<key>CALIBRATE</key>
+	<string>kalibrieren</string>	
+	<key>SIGNIN_GOOGLE</key>
+	<string>mit google¶¶¶¶¶¶¶¶\nanmelden¶¶¶¶</string>
+	<key>CONNECTED_GOOGLE</key>
+	<string>du bist mit¶¶¶¶\ngoogle verbunden</string>
+	<key>BUY_BTN</key>
+	<string>kaufen</string>
+	<key>LOADING</key>
+	<string>laden...</string>
+	<key>COPYRIGHT</key>
+	<string>©2024 Lima Sky LLC</string>
+	<key>STORE_BTN</key>
+	<string scale="0.76" space="0.87">laden</string>
+	<key>OPTIONS_BTN</key>
+	<string scale="0.76" space="0.87">¶¶optionen</string>
+	<key>SCORES_BTN</key>
+	<string scale="0.76" space="0.87">ergebnisse¶</string>
+	<key>SWIPE_ALERT</key>
+	<string scale="0.72" space="0.75">¶¶¶¶¶¶¶¶¶swipe es das\n¶¶¶¶¶thema wechseln</string>
+	<key>TOURNAMENTS</key>
+	<string scale="0.9">turniere</string>
+</dict>
+</plist>

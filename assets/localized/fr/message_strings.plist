@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONN_ERR</key>
+	<string>connection error</string>
+	<key>SCORE_ERR</key>
+	<string>connection to the results server could not be made. please make sure that you have internet connectivity and try again later.</string>
+	<key>NEWS_ERR</key>
+	<string>connection to the news server could not be made. please make sure that you have internet connectivity and try again later.</string>
+	<key>GPG_ERR</key>
+	<string>to compete with your friends you will need to be signed in to Google Play Services. please go to options menu and tap login button.</string>
+	<key>BUY_CONF</key>
+	<string>are you sure you want to purchase %s?</string>
+	<key>STORE_ERR</key>
+	<string>could not connect to store.</string>
+	<key>STORE_ERR_INT</key>
+	<string>there was a problem connecting to the store. please make sure that you have internet connectivity and try again later.</string>
+	<key>PURCH_ERR</key>
+	<string>unable to purchase. please try again later.</string>
+</dict>
+</plist>

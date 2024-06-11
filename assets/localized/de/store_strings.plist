@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONTACTING_STORE</key>
+	<string>verbinde mit store...</string>
+	<key>FREE_VIDEO</key>
+	<string>¶\numsonst¶¶</string>
+	<key>FREE</key>
+	<string>nanschauen¶¶¶\n¶¶¶¶¶¶¶¶¶ad!</string>
+	<key>NEED_MORE_COINS</key>
+	<string>du brauchst mehr¶¶¶¶¶\n¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶muenzen</string>
+	<key>GET_MORE_COINS</key>
+	<string>sammle mehr muenzen</string>
+	<key>NEED_MORE_GOLD</key>
+	<string>du brauchst mehr gold</string>
+	<key>GET_MORE_GOLD</key>
+	<string>sammle mehr gold</string>
+	<key>NEED_MORE_CANDIES</key>
+	<string>du brauchst mehr¶¶¶¶¶¶¶¶\n¶¶¶¶¶¶¶¶¶¶¶¶süßigkeiten</string>
+	<key>GET_MORE_CANDIES</key>
+	<string>sammle mehr süßigkeiten</string>
+	<key>NEED_MORE_EGGS</key>
+	<string>du brauchst¶¶¶¶¶\n¶¶mehr eier</string>
+	<key>GET_MORE_EGGS</key>
+	<string>sammle\nmehr eier</string>
+	<key>BEST_DEAL</key>
+	<string>bestes\nangebot!</string>
+	<key>MOST_POPULAR</key>
+	<string>am¶¶¶¶\nbeliebtesten¶¶¶¶¶¶</string>
+	<key>CURRENCY_COINS</key>
+	<string>muenzen</string>	
+	<key>CURRENCY_GOLD</key>
+	<string>gold</string>	
+	<key>CURRENCY_CANDIES</key>
+	<string>süßigkeiten</string>
+	<key>CURRENCY_EGGS</key>
+	<string>eier</string>		
+	<key>CONGRATS</key>
+	<string>glückwünsche!</string>		
+	<key>YOU_EARNED</key>
+	<string>du hast verdient</string>
+	<key>OK_BUTTON</key>
+	<string>OK</string>
+</dict>
+</plist>
