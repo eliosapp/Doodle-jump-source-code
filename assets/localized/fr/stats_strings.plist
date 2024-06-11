@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIGHSCORES_TITLE</key>
+	<string>¶¶scores, statistiques\n¶¶¶¶¶¶¶¶et accomplissements</string>
+	<key>NET_GLOBAL</key>
+	<string>global</string>
+	<key>NET_LOCAL</key>
+	<string>local</string>
+	<key>SCORES</key>
+	<string>scores</string>
+	<key>STATS</key>
+	<string>stats</string>
+	<key>ACHS</key>
+	<string>réalisations</string>
+	<key>ALL</key>
+	<string>tout\nle temps</string>
+	<key>TODAY</key>
+	<string>de nos\njours</string>
+	<key>WEEK</key>
+	<string>cette\nsemaine</string>
+	<key>TOTAL_GAMES</key>
+	<string>total de parties jouées</string>
+	<key>HIGH_SCORE</key>
+	<string>meilleur score</string>
+	<key>LAST_SCORE</key>
+	<string>dernier score</string>
+	<key>AVG_SCORE</key>
+	<string>score moyen</string>
+	<key>TOTAL_TIME</key>
+	<string>temps de jeu total</string>
+	<key>LONG_TIME</key>
+	<string space="0.95">le plus long temps de jeu</string>
+	<key>LAST_TIME</key>
+	<string>dernier temps de jeu</string>
+	<key>MONS_SHOT</key>
+	<string>tir de monstres</string>
+	<key>MONS_JUMP</key>
+	<string>les monstres piétinés</string>
+	<key>UFO_SHOT</key>
+	<string>UFOs tiré</string>
+	<key>UFO_JUMP</key>
+	<string>UFOs piétiné</string>
+	<key>TOTAL_JUMP</key>
+	<string>sauts totaux</string>
+	<key>MAX_JUMP</key>
+	<string>sauts maximum</string>
+	<key>LAST_JUMP</key>
+	<string>dernier jeu saute</string>
+	<key>AVG_JUMP</key>
+	<string>sauts moyens</string>
+	<key>JETPACK</key>
+	<string>vols jetpack</string>
+	<key>PROPELLERHAT</key>
+	<string>vols de chapeau d'hélice</string>
+	<key>ROCKET</key>
+	<string>vols de fusées</string>
+	<key>HOW_ENDED</key>
+	<string space="0.95">COMMENT VOUS AVEZ FINI</string>
+	<key>MISS_PLATFORMS</key>
+	<string>manqué une plate-forme</string>
+	<key>JUMPED_MONSTERS</key>
+	<string>sauté dans un monstre</string>
+	<key>ABDUCTED_UFO</key>
+	<string>été enlevé par un UFO</string>
+	<key>BLACK_HOLE</key>
+	<string>trou noir</string>
+</dict>
+</plist>

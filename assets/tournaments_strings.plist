@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WELCOME_TO</key>
+	<string>welcome to tournaments!</string>
+	<key>ACTIVE</key>
+	<string>active</string>
+	<key>COMPLETED</key>
+	<string>completed</string>
+	<key>REGISTER</key>
+	<string>register</string>
+	<key>CONFIRM_NAME</key>
+	<string>confirm user name:</string>
+	<key>REGISTERING_PLAYER</key>
+	<string>registering player...</string>
+	<key>AUTHING_PLAYER</key>
+	<string>authenticating player...</string>
+	<key>ERROR_CONNECTION</key>
+	<string>error while connecting with tournaments servers</string>
+	<key>TRY_AGAIN</key>
+	<string>try again</string>
+	<key>RESET_SUGGEST</key>
+	<string>if the issue is permanent you could try to reset your player account\n \nWARNING:\nall unclaimed prizes and stats will be lost!</string>
+	<key>RESET_ACCOUNT</key>
+	<string>reset account</string>
+	<key>SENDING_UNSENT</key>
+	<string>sending scores...</string>
+	<key>LOADING_TOURNAMENTS</key>
+	<string>loading tournaments...</string>
+	<key>TOURNAMENTS</key>
+	<string>tournaments</string>
+	<key>TOURNAMENTS_SUBSTR</key>
+	<string>compete against other players\n for huge prizes!</string>
+	<key>NO_TOURNAMENTS</key>
+	<string>sorry, there are no tournaments available</string>
+	<key>FINISHED</key>
+	<string>finished</string>
+	<key>FINISHED_COMPETS</key>
+	<string>finished competitions</string>
+	<key>ENTERING_TOURNAMENT</key>
+	<string>entering tournament...</string>
+	<key>RE_ENTERING_TOURNAMENT</key>
+	<string>re-entering tournament...</string>
+	<key>LOADING_RANKS</key>
+	<string>loading ranks...</string>
+	<key>CLAIM</key>
+	<string>claim</string>
+	<key>SHOW</key>
+	<string>show</string>
+	<key>ENTER</key>
+	<string>enter</string>
+	<key>REMAINING</key>
+	<string>remaining</string>
+	<key>RANKS</key>
+	<string>ranks</string>
+	<key>PLAY</key>
+	<string>play</string>
+	<key>ENDED_TITLE</key>
+	<string>%s\nhas ended</string>
+	<key>NO_WON_SUBSTR</key>
+	<string>too bad you didn't win anything. better luck next time</string>
+	<key>LOADING_AWARDS</key>
+	<string>loading awards info...</string>
+	<key>CONGRATS</key>
+	<string>congratulations!</string>
+	<key>WON_SUBSTR</key>
+	<string>you finished\nwith rank #%d\nin %s</string>
+	<key>RANK_SINGLE</key>
+	<string>rank %d</string>
+	<key>RANK_COMPLEX</key>
+	<string>rank %d-%d</string>
+	<key>1ST_PRIZE</key>
+	<string>1st prize</string>
+	<key>2ND_PRIZE</key>
+	<string>2nd prize</string>
+	<key>3RD_PRIZE</key>
+	<string>3rd prize</string>
+	<key>REPLAY</key>
+	<string>replay</string>
+	<key>MENU</key>
+	<string>menu</string>
+	<key>TIMER_FORMAT</key>
+	<string>%dd / %02d:%02d:%02d</string>	
+	<key>CHANGE_NAME</key>
+	<string>change name</string>
+	<key>NO_RANKS_AVAILABLE</key>
+	<string>no ranks available yet</string>
+	<key>CHANGE</key>
+	<string>change</string>
+	<key>CANCEL</key>
+	<string>cancel</string>
+	<key>CHANGING_NAME</key>
+	<string>changing user name...</string>
+	<key>CLAIMED</key>
+	<string>claimed</string>
+	<key>CLAIMED_DESC</key>
+	<string>your award has been added to your inventory</string> 
+</dict>
+</plist>

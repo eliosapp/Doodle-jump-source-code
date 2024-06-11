@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WELCOME_TO</key>
+	<string>willkommen bei turnieren!</string>
+	<key>ACTIVE</key>
+	<string>aktiv</string>
+	<key>COMPLETED</key>
+	<string>abgeschlossen</string>
+	<key>REGISTER</key>
+	<string scale="0.9" space="0.0">registrieren</string>
+	<key>CONFIRM_NAME</key>
+	<string>bestätige benutzernamen:</string>
+	<key>REGISTERING_PLAYER</key>
+	<string>spieler registrieren . . .</string>
+	<key>AUTHING_PLAYER</key>
+	<string>authentifizierender spieler</string>
+	<key>ERROR_CONNECTION</key>
+	<string>fehler beim verbinden mit servern</string>
+	<key>TRY_AGAIN</key>
+	<string>versuchen sie es nochmal</string>
+	<key>RESET_SUGGEST</key>
+	<string>wenn das problem dauerhaft ist, können sie Ihr spielerkonto zurücksetzen\n \n WARNUNG:\nalle nicht beanspruchten preise und punkte gehen verloren!</string>
+	<key>RESET_ACCOUNT</key>
+	<string>konto zurücksetzen</string>
+	<key>SENDING_UNSENT</key>
+	<string>senden von ergebnissen . . . </string>
+	<key>LOADING_TOURNAMENTS</key>
+	<string>lade turniere</string>
+	<key>TOURNAMENTS</key>
+	<string>turniere</string>
+	<key>TOURNAMENTS_SUBSTR</key>
+	<string>sie können sich gegen andere spieler\n um riesige preise bewerben!</string>
+	<key>NO_TOURNAMENTS</key>
+	<string>entschuldigung, es sind keine turniere verfügbar</string>
+	<key>FINISHED</key>
+	<string>fertig</string>
+	<key>FINISHED_COMPETS</key>
+	<string>beendete wettbewerbe</string>
+	<key>ENTERING_TOURNAMENT</key>
+	<string>turnier betreten . . .</string>
+	<key>RE_ENTERING_TOURNAMENT</key>
+	<string>turnier erneut betreten . . .</string>
+	<key>LOADING_RANKS</key>
+	<string>laden von rängen . . .</string>
+	<key>CLAIM</key>
+	<string>abholen</string>
+	<key>SHOW</key>
+	<string>anzeigen</string>
+	<key>ENTER</key>
+	<string>eintreten</string>
+	<key>REMAINING</key>
+	<string>verbleibend</string>
+	<key>RANKS</key>
+	<string>rängen</string>
+	<key>PLAY</key>
+	<string space="0.1">abspielen</string>
+	<key>ENDED_TITLE</key>
+	<string>%s\nist beendet</string>
+	<key>NO_WON_SUBSTR</key>
+	<string>du hast nichts gewonnen. viel glück beim nächsten mal</string>
+	<key>LOADING_AWARDS</key>
+	<string>lade informationen zum preis ein</string>
+	<key>CONGRATS</key>
+	<string>herzliche glückwünsche!</string>
+	<key>WON_SUBSTR</key>
+	<string>du hast deinen\nrang #%d\nin %s beendet</string>
+	<key>RANK_SINGLE</key>
+	<string>rang %d</string>
+	<key>RANK_COMPLEX</key>
+	<string>rang %d-%d</string>
+	<key>1ST_PRIZE</key>
+	<string>1. preis</string>
+	<key>2ND_PRIZE</key>
+	<string>2. preis</string>
+	<key>3RD_PRIZE</key>
+	<string>3. preis</string>
+	<key>REPLAY</key>
+	<string scale="0.8" space="0.0">spiel     \nnochmal</string>
+	<key>MENU</key>
+	<string>menü</string>
+	<key>TIMER_FORMAT</key>
+	<string>%dd / %02d:%02d:%02d</string>
+	<key>CHANGE_NAME</key>
+	<string>ändere deinen namen</string>
+	<key>NO_RANKS_AVAILABLE</key>
+	<string>noch keine ränge verfügbar</string>
+	<key>CHANGE</key>
+	<string>ändern</string>
+	<key>CANCEL</key>
+	<string space="0.1">stornieren</string>
+	<key>CHANGING_NAME</key>
+	<string>ändern des benutzernamens</string>
+	<key>CLAIMED</key>
+	<string>beansprucht</string>
+	<key>CLAIMED_DESC</key>
+	<string>your award has been added to your inventory</string> 
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONTACTING_STORE</key>
+	<string>contacter le magasin...</string>
+	<key>FREE_VIDEO</key>
+	<string>¶\ngratuit¶¶</string>
+	<key>FREE</key>
+	<string>regarder¶¶\n¶¶l'ad!</string>
+	<key>NEED_MORE_COINS</key>
+	<string>vous avez besoin¶¶¶¶\n¶¶¶¶¶¶de plus de pièces</string>
+	<key>GET_MORE_COINS</key>
+	<string>obtenir plus de pièces</string>
+	<key>NEED_MORE_GOLD</key>
+	<string>vous avez besoin¶¶¶¶\n¶¶¶¶¶¶de plus d'or</string>
+	<key>GET_MORE_GOLD</key>
+	<string>obtenir plus d'or</string>
+	<key>NEED_MORE_CANDIES</key>
+	<string>vous avez besoin¶¶¶¶\n¶¶¶¶de plus de bonbons</string>
+	<key>GET_MORE_CANDIES</key>
+	<string>obtenir plus de bonbons</string>
+	<key>NEED_MORE_EGGS</key>
+	<string>vous avez\nbesoin de¶¶¶¶¶¶\nplus d'oeufs</string>
+	<key>GET_MORE_EGGS</key>
+	<string>obtenir\nplus d'oeufs</string>
+	<key>BEST_DEAL</key>
+	<string>meilleure\noffre!</string>
+	<key>MOST_POPULAR</key>
+	<string>le plus¶¶¶¶¶\npopulaire¶¶</string>
+	<key>CURRENCY_COINS</key>
+	<string>pièces</string>	
+	<key>CURRENCY_GOLD</key>
+	<string>d'or</string>	
+	<key>CURRENCY_CANDIES</key>
+	<string>bonbons</string>
+	<key>CURRENCY_EGGS</key>
+	<string>d'oeufs</string>		
+	<key>CONGRATS</key>
+	<string>félicitations!</string>		
+	<key>YOU_EARNED</key>
+	<string>vous avez gagné</string>
+	<key>OK_BUTTON</key>
+	<string>très bien</string>
+</dict>
+</plist>

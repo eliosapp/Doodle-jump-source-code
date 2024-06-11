@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>achtwitter</key>
+	<array>
+		<string>twitter connector</string>
+		<string>tweet your score</string>
+		<string>tweeted score</string>
+	</array>
+	<key>achfacebook</key>
+	<array>
+		<string>facebook connector</string>
+		<string>post your score on facebook</string>
+		<string>posted score on facebook</string>
+	</array>
+	<key>achspring</key>
+	<array>
+		<string>spring shoes jumper</string>
+		<string>jump with spring shoes without falling</string>
+		<string>jumped with spring shoes without falling</string>
+	</array>
+	<key>achspringer</key>
+	<array>
+		<string>serial springer</string>
+		<string>jump on 3 springs in a row</string>
+		<string>jumped on 3 springs in a row</string>
+	</array>
+	<key>achsuperspringer</key>
+	<array>
+		<string>super serial springer</string>
+		<string>jump on 5 springs in a row</string>
+		<string>jumped on 5 springs in a row</string>
+	</array>
+	<key>achbouncer</key>
+	<array>
+		<string>monster bouncer</string>
+		<string>jump on 10 monsters in one game</string>
+		<string>jumped on 10 monsters in one game</string>
+	</array>
+	<key>achsuperbouncer</key>
+	<array>
+		<string>super monster bouncer</string>
+		<string>jump on 30 monsters in one game</string>
+		<string>jumped on 30 monsters in one game</string>
+	</array>
+	<key>achconflict</key>
+	<array>
+		<string>conflict avoider</string>
+		<string>jump past 10 monsters in one game</string>
+		<string>jumped past 10 monsters in one game</string>
+	</array>
+	<key>achsuperconflict</key>
+	<array>
+		<string>super conflict avoider</string>
+		<string>jump past 30 monsters in one game</string>
+		<string>jumped past 30 monsters in one game</string>
+	</array>
+	<key>achsharp</key>
+	<array>
+		<string>sharp shooter</string>
+		<string>shoot 5 monsters in a row without missing</string>
+		<string>shot 5 monsters in a row without missing</string>
+	</array>
+	<key>achsupersharp</key>
+	<array>
+		<string>super sharp shooter</string>
+		<string>shoot 10 monsters in a row without missing</string>
+		<string>shot 10 monsters in a row without missing</string>
+	</array>
+	<key>achpropeller</key>
+	<array>
+		<string>propellerhead</string>
+		<string>fly 3 propellerhats in one game</string>
+		<string>flew 3 propellerhats in one game</string>
+	</array>
+	<key>achjetpack</key>
+	<array>
+		<string>jetpack rider</string>
+		<string>fly 3 jetpacks in one game</string>
+		<string>flew 3 jetpacks in one game</string>
+	</array>
+	<key>achold</key>
+	<array>
+		<string>old-fashioned jumper</string>
+		<string>jump past 3 jetpacks without picking them</string>
+		<string>jumped past 3 jetpacks without picking them</string>
+	</array>
+	<key>achufo</key>
+	<array>
+		<string>UFO abduction survivor</string>
+		<string>survive UFO abduction</string>
+		<string>survived UFO abduction</string>
+	</array>
+	<key>achracechamp</key>
+	<array>
+		<string>racing champ</string>
+		<string>win 100 multiplayer races</string>
+		<string>won 100 multiplayer races</string>
+	</array>
+	<key>achracehero</key>
+	<array>
+		<string>racing hero</string>
+		<string>win 500 multiplayer races</string>
+		<string>won 500 multiplayer races</string>
+	</array>
+	<key>achracelegend</key>
+	<array>
+		<string>racing legend</string>
+		<string>win 1000 multiplayer races</string>
+		<string>won 1000 multiplayer races</string>
+	</array>
+	<key>achendurancejumper</key>
+	<array>
+		<string>endurance jumper</string>
+		<string>jump 200 times on a static platform</string>
+		<string>jumped 200 times on a static platform</string>
+	</array>
+	<key>achfocusedendurancejumper</key>
+	<array>
+		<string>focused endurance jumper</string>
+		<string>jump 100 times on a moving platform</string>
+		<string>jumped 100 times on a moving platform</string>
+	</array>
+	<key>achepicfail</key>
+	<array>
+		<string>epic fail</string>
+		<string>break 50 platforms in one game</string>
+		<string>broke 50 platforms in one game</string>
+	</array>
+	<key>achepicfailftw</key>
+	<array>
+		<string>epic fail FTW</string>
+		<string>break a total of 1000 platforms</string>
+		<string>broke a total of 1000 platforms</string>
+	</array>
+	<key>achdoodlejumpexplorer</key>
+	<array>
+		<string>doodle jump explorer</string>
+		<string>play each theme at least 5 times</string>
+		<string>played each theme at least 5 times</string>
+	</array>
+	<key>achmonsterchopper</key>
+	<array>
+		<string>monster chopper</string>
+		<string>fly into a monster with a propellerhat</string>
+		<string>flew into a monster with a propellerhat</string>
+	</array>
+	<key>achufobouncer</key>
+	<array>
+		<string>UFO bouncer</string>
+		<string>jump on a UFO</string>
+		<string>jumped on a UFO</string>
+	</array>
+	<key>achhundredthousand</key>
+	<array>
+		<string>100,000</string>
+		<string>jump to over 100,000</string>
+		<string>jumped past 100,000</string>
+	</array>
+	<key>achpocketgod</key>
+	<array>
+		<string>pocket god</string>
+		<string>throw some coconuts</string>
+		<string>thrown some coconuts</string>
+	</array>
+	<key>achegghunter50</key>
+	<array>
+		<string>egg hunter</string>
+		<string>collect 50 easter eggs in one game</string>
+		<string>collected 50 easter eggs in one game</string>
+	</array>
+	<key>achegghunter1000</key>
+	<array>
+		<string>egg hunter extraordinaire</string>
+		<string>collect 1000 easter eggs</string>
+		<string>collected 1000 easter eggs</string>
+	</array>
+	<key>acharachnophobia</key>
+	<array>
+		<string>arachnophobia</string>
+		<string>avoid 50 spiders</string>
+		<string>avoided 50 spiders</string>
+	</array>
+	<key>achgorillathrilla</key>
+	<array>
+		<string>gorilla thrilla</string>
+		<string>defeat angry ape 25 times</string>
+		<string>defeated 25 angry apes</string>
+	</array>
+	<key>achnodivingallowed</key>
+	<array>
+		<string>no diving allowed</string>
+		<string>blast dive bomber 50 times</string>
+		<string>blasted 50 dive bombers</string>
+	</array>
+	<key>achinvaderterminator</key>
+	<array>
+		<string>invader terminator</string>
+		<string>destroy complete block of invaders 25 times</string>
+		<string>destroyed 25 complete blocks of invaders</string>
+	</array>
+	<key>achhealthyeater</key>
+	<array>
+		<string>healthy eater</string>
+		<string>eat 100 cherries</string>
+		<string>had eaten 100 cherries</string>
+	</array>
+</dict>
+</plist>

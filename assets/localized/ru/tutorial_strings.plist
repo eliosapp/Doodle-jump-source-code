@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<string>наклоняйте устройство для\nдвижения влево или вправо</string>
+	<key>1</key>
+	<string>прыгайте сюда</string>
+	<key>2</key>
+	<string>коснитесь экрана\n¶для выстрела</string>
+	<key>3</key>
+	<string></string>
+	<key>4</key>
+	<string></string>
+	<key>5</key>
+	<string>¶¶¶¶¶избегайте</string>
+	<key>6</key>
+	<string>¶¶¶вы можете передвигать эти\nплатформы по экрану\n¶¶¶при помощи вашего пальца</string>
+	<key>7</key>
+	<string></string>
+	<key>8</key>
+	<string>ПОДОЖДИТЕ! не стреляйте!</string>
+	<key>9</key>
+	<string>прыгайте по монстрам</string>
+</dict>
+</plist>

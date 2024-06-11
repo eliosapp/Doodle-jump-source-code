@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HIGHSCORES_TITLE</key>
+	<string>очки, статистика\n¶¶¶¶¶¶¶¶и достижения</string>
+	<key>NET_GLOBAL</key>
+	<string>глобально</string>
+	<key>NET_LOCAL</key>
+	<string>локально</string>
+	<key>SCORES</key>
+	<string>очки</string>
+	<key>STATS</key>
+	<string>данные</string>
+	<key>ACHS</key>
+	<string>достижения</string>
+	<key>ALL</key>
+	<string>все время</string>
+	<key>TODAY</key>
+	<string>сегодня</string>
+	<key>WEEK</key>
+	<string>эта неделя</string>
+	<key>TOTAL_GAMES</key>
+	<string>общее количество игр</string>
+	<key>HIGH_SCORE</key>
+	<string>лучший счет</string>
+	<key>LAST_SCORE</key>
+	<string>последний счет</string>
+	<key>AVG_SCORE</key>
+	<string>средний счет</string>
+	<key>TOTAL_TIME</key>
+	<string>общее время игры</string>
+	<key>LONG_TIME</key>
+	<string>наибольшее время игры</string>
+	<key>LAST_TIME</key>
+	<string>время последней игры</string>
+	<key>MONS_SHOT</key>
+	<string>уничтожено монстров</string>
+	<key>MONS_JUMP</key>
+	<string>прыжки на монстров</string>
+	<key>UFO_SHOT</key>
+	<string>сбито НЛО</string>
+	<key>UFO_JUMP</key>
+	<string>прыжки на НЛО</string>
+	<key>TOTAL_JUMP</key>
+	<string>общее число прыжков</string>
+	<key>MAX_JUMP</key>
+	<string>максимум прыжков</string>
+	<key>LAST_JUMP</key>
+	<string>прыжки последней игры</string>
+	<key>AVG_JUMP</key>
+	<string>среднее число прыжков</string>
+	<key>JETPACK</key>
+	<string>полеты с ранцем</string>
+	<key>PROPELLERHAT</key>
+	<string>полеты с пропеллером</string>
+	<key>ROCKET</key>
+	<string>полеты на ракете</string>
+	<key>HOW_ENDED</key>
+	<string>КАК ВЫ ПРОИГРЫВАЛИ</string>
+	<key>MISS_PLATFORMS</key>
+	<string>прыжок мимо платформы</string>
+	<key>JUMPED_MONSTERS</key>
+	<string>прыжок в монстра</string>
+	<key>ABDUCTED_UFO</key>
+	<string>похищение НЛО</string>
+	<key>BLACK_HOLE</key>
+	<string>черная дыра</string>
+</dict>
+</plist>

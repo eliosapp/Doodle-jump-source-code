@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<style>
+html { box-sizing: border-box; height: 100%; }
+body { background-color: transparent; box-sizing: border-box; color: #202020; font-family: doodlejumpbold_v2; font-size: 4vw; height: 100%; width: 100%; padding: 0; margin: 0; -webkit-touch-callout: none; -webkit-user-select: none; overflow: hidden; position: relative; }
+body.response { padding-bottom: 5em; position: relative; } a:link, a:visited, a:active { color: #2696dd; }
+.content { text-align: center; margin: auto auto; position: absolute; height: auto; width: 100%; line-height:16px;}
+.button-container { text-align: center; width: 100%; position: relative;}
+.primary-button:link,
+.primary-button:visited,
+.primary-button:active { color: black; display:inline-block; width: 42%; height: 110%; text-decoration: none; background: url('consent/consent_button.png') no-repeat center; background-size: 100% 100%; }
+.span-text {display: inline-flex; justify-content:center; align-items: center; width: auto; height: 100%; text-align: center; line-height:44px; vertical-align: middle;}
+.secondary-button:link { color: #808080 }
+.secondary-button { display: inline-block; position: center; height: 100%; }
+.explanation { text-align: center; margin-bottom:-3%; }
+.privacy { text-align: center; }
+.footer { bottom: 0; left: 0; line-height: 130%; padding-bottom: 1.2em; position: absolute; right: 0; text-align: center; }
+.footer a:link,
+.footer a:visited,
+.footer a:active { color: black; display: block; text-decoration: none; width: 100%; }
+.starts-hidden { display: none; }
+@font-face { font-family: doodlejumpbold_v2; src: url('doodlejumpbold_v2.ttf'); }
+</style>
+</head>
+<body>
+<div class="agreement content">
+	<div id="content-agreement"></div> 
+	<div class="button-container" id="accept-button-container">
+		<a class="primary-button" href="mopub://consent?yes" id="accept-button"> 
+            			<span class="span-text" id="content-agreeLabel"></span>
+		</a> 
+	</div> 
+	<div class="button-container" id="deny-button-container"> 
+		<a class="secondary-button" href="mopub://consent?no" id="deny-button"> 
+			<span class="span-text" id="content-denyLabel"></span>
+		</a> 
+	</div> 
+	<div class="explanation" id="content-explanation"></div> 
+	<div id="content-privacy"></div> 
+</div> 
+</body>
+</html> 
+
+<script> 
+
+var localizedContent = 
+{"en":
+	{
+		"agreeLabel":"yes, i agree",
+		"agreement":"<p>we would like to show you ads from our <a href=\"https://www.mopub.com/legal/partners/?lang=en\">partners</a> that are relevant to your interests. to do this, we may use information, like your device id, general location, and other demographic and interest data.</p><p>by agreeing to this, you are confirming that you are 16+ years old and would like to receive a personalized ad experience.</p>",
+		"denyLabel":"no, thank you",
+		"explanation":"i understand that i will still see ads but they will not be targeted to my interests.",
+		"privacy":"<p><a href=\"http://www.limasky.com/privacy.html\">our privacy policy</a></p>",
+		"languageName":"english"
+	},
+"de":
+	{
+		"agreeLabel":"ja, ich stimme zu",
+		"agreement":
+"<p>wir möchten dir anzeigen von unseren <a href=\"https://www.mopub.com/legal/partners/?lang=de\">partnern</a> zeigen, die für dein interessen relevant sind. zu diesem zweck können wir informationen wie ihre geräte-id, den allgemeinen standort und andere demografische und interessensdaten verwenden.</p><p>indem du zustimmst, bestätigst du, dass du 16 + jahre alt bist und eine personalisierte anzeigenerfahrung erhalten möchtest.</p>",		
+		"denyLabel":"nein danke",
+		"explanation":"ich verstehe, dass ich weiterhin anzeigen sehen werde, die aber nicht auf meine interessen ausgerichtet sind.",
+		"privacy":"<p><a href=\"http://www.limasky.com/privacy.html\">unsere datenschutzrichtlinie</a></p>",
+		"languageName":"german"
+	},
+"fr":
+	{
+		"agreeLabel":"oui je suis d'accord",
+		"agreement":"<p>nous aimerions vous montrer des publicités de nos <a href=\"https://www.mopub.com/legal/partners/?lang=fr\">partenaires</a> qui correspondent à vos intérêts. pour ce faire, nous pouvons utiliser des informations, telles que l'identifiant de votre appareil, l'emplacement général et d'autres données démographiques et d'intérêt.</p><p>en acceptant cela, vous confirmez que vous avez plus de 16 ans et que vous souhaitez bénéficier d'une expérience publicitaire personnalisée.</p>",
+		"denyLabel":"non, merci",
+		"explanation":"je comprends que je verrai toujours des publicités, mais elles ne seront pas ciblées sur mes intérêts.",
+		"privacy":"<p><a href=\"http://www.limasky.com/privacy.html\">notre politique de confidentialité</a></p>",
+		"languageName":"french"
+	},
+"pt":
+	{
+		"agreeLabel":"sim eu concordo",
+		"agreement":"<p>gostaríamos de mostrar a você anúncios de nossos <a href=\"https://www.mopub.com/legal/partners/?lang=pt\">parceiros</a> que são relevantes para seus interesses. para fazer isso, podemos usar informações, como o código do seu dispositivo, a localização geral e outros dados demográficos e de interesse.</p><p>ao concordar com isso, você confirma que tem mais de 16 anos e gostaria de receber uma experiência de anúncio personalizada.</p>",
+		"denyLabel":"não obrigado",
+		"explanation":"entendo que ainda verei anúncios, mas eles não serão segmentados para meus interesses.",
+		"privacy":"<p><a href=\"http://www.limasky.com/privacy.html\">nossa política de privacidade</a></p>",
+		"languageName":"portuguese"
+	},
+"nl":
+	{
+		"agreeLabel":"ja, ik ben het ermee eens",
+		"agreement":"<p>we willen u graag advertenties laten zien van onze <a href=\"https://www.mopub.com/legal/partners/?lang=nl\">partners</a> die relevant zijn voor uw interesses. om dit te doen, kunnen we informatie gebruiken, zoals uw apparaat-id, algemene locatie en andere demografische en interesse gegevens.</p><p>door hiermee akkoord te gaan, bevestigt u dat u 16 jaar of ouder bent en een gepersonaliseerde advertentie-ervaring wilt ontvangen.</p>",
+		"denyLabel":"nee, dank u",
+		"explanation":"ik begrijp dat ik nog steeds advertenties te zien krijg, maar dat deze niet op mijn interesses zijn gericht.",
+		"privacy":"<p><a href=\"http://www.limasky.com/privacy.html\">ons privacybeleid</a></p>",
+		"languageName":"dutch"
+	},
+"it":
+	{
+		"agreeLabel":"si, sono d'accordo",
+		"agreement":"<p>desideriamo mostrarti annunci dei nostri <a href=\"https://www.mopub.com/legal/partners/?lang=it\">partner</a> pertinenti ai tuoi interessi. per fare ciò, possiamo utilizzare le informazioni, come l'id del dispositivo, la posizione generale e altri dati demografici e di interesse.</p><p>accettando questo, confermi di avere almeno 16 anni e desideri ricevere un'esperienza pubblicitaria personalizzata.</p>",
+		"denyLabel":"no grazie",
+		"explanation":"capisco che continuerò a vedere annunci ma non saranno indirizzati ai miei interessi.",
+		"privacy":"<p><a href=\"http://www.limasky.com/privacy.html\">la nostra politica sulla privacy</a></p>",
+		"languageName":"italian"
+	},
+"es":
+	{
+		"agreeLabel":"sí estoy de acuerdo",
+		"agreement":"<p>nos gustaría mostrarle anuncios de nuestros <a href=\"https://www.mopub.com/legal/partners/?lang=es\">socios</a> que sean relevantes para sus intereses. para hacer esto, podemos usar información, como la id de su dispositivo, la ubicación general y otros datos demográficos y de interés.</p><p>al aceptar esto, confirma que tiene al menos 16 años y desea recibir una experiencia publicitaria personalizada.</p>",
+		"denyLabel":"no gracias",
+		"explanation":"entiendo que seguiré viendo anuncios, pero no se orientarán a mis intereses.",
+		"privacy":"<p><a href=\"http://www.limasky.com/privacy.html\">nuestra política de privacidad</a></p>",
+		"languageName":"spanish"
+	},
+};
+
+var q = document.querySelector.bind(document);
+function respond(accepted) {
+	var agreement = q('.agreement');
+	var body = q('body');
+	body.classList.add('response');
+	agreement.style.display = 'none';
+} 
+
+function init() {
+	var content = localizedContent['en'];
+
+    	var screenScale = %screenScale%;
+    	var fontSize = 15 * screenScale;
+	var aspectHeight = 40 * screenScale;
+
+	var contentAgreement = q('#content-agreement');
+	contentAgreement.style.fontSize = fontSize + 'px';
+	contentAgreement.style.lineHeight = 15 * screenScale + 'px';
+	contentAgreement.innerHTML = content["agreement"];
+
+	var contentExplanation = q('#content-explanation');
+	contentExplanation.style.fontSize = fontSize + 'px';
+	contentExplanation.style.lineHeight = 15 * screenScale + 'px';
+	contentExplanation.innerHTML = content["explanation"]; 
+
+	var contentPrivacy = q('#content-privacy');
+	contentPrivacy.style.fontSize = fontSize + 'px';
+	contentPrivacy.style.lineHeight = 15 * screenScale + 'px';
+	contentPrivacy.innerHTML = content["privacy"]; 
+
+	var contentAgreeLabel = q('#content-agreeLabel');
+	contentAgreeLabel.style.fontSize = fontSize + 5 + 'px';
+	contentAgreeLabel.style.lineHeight = aspectHeight + 'px';
+	contentAgreeLabel.innerHTML = content["agreeLabel"];
+	contentAgreeLabel.style.width = '80%';
+
+	var contentDenyLabel = q('#content-denyLabel');
+	contentDenyLabel.style.fontSize = fontSize + 2 + 'px';
+	contentDenyLabel.innerHTML = content["denyLabel"];
+	
+	q('#accept-button-container').style.height = aspectHeight + 'px';
+	q('#deny-button-container').style.height = aspectHeight + 'px';
+
+	q('#accept-button').addEventListener('click', function () 
+	{ respond(true); }); 
+	q('#deny-button').addEventListener('click', function () 
+	{ respond(false); }); 
+}
+init();
+</script>
